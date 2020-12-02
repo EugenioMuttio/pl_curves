@@ -1,5 +1,5 @@
 This software is automatically tested by Travis-CI after each build. Current build status:
-[![Build status](https://travis-ci.org/EugenioMuttio/pl_curves.svg?branch=master)](https://travis-ci.org/EugenioMuttio/pl_curves)
+[![Build status](https://travis-ci.com/EugenioMuttio/pl_curves.svg?branch=master)](https://travis-ci.com/EugenioMuttio/pl_curves)
 
 Code coverage: 
 [![codecov](https://codecov.io/gh/EugenioMuttio/pl_curves/branch/master/graph/badge.svg?token=QHMIMANSDT)](https://codecov.io/gh/EugenioMuttio/pl_curves)
